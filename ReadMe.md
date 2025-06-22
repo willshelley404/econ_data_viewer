@@ -1,6 +1,6 @@
 # FRED Housing Market Dashboard
 
-A sophisticated Shiny application that visualizes key housing market economic indicators from the Federal Reserve Economic Data (FRED) database.
+A Shiny application that visualizes key housing market economic indicators from the Federal Reserve Economic Data (FRED) database.
 
 ## Features
 
